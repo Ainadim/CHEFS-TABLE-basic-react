@@ -1,0 +1,100 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Grilled Chicken Salad",
+    "short_description": "A healthy and refreshing grilled chicken salad with mixed greens.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "300 g chicken breast",
+      "100 g mixed greens",
+      "50 g cherry tomatoes",
+      "30 g feta cheese",
+      "2 tbsp olive oil",
+      "1 tbsp balsamic vinegar"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "200 g spaghetti",
+      "100 g pancetta",
+      "50 g parmesan cheese",
+      "2 large eggs",
+      "1 clove garlic",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Vegetarian Stir-Fry",
+    "short_description": "A quick and colorful stir-fry with fresh vegetables and tofu.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "200 g tofu",
+      "100 g bell peppers",
+      "100 g broccoli",
+      "50 g snap peas",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 clove garlic"
+    ],
+    "preparing_time": "15 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Delicious beef tacos with a zesty seasoning and fresh toppings.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "250 g ground beef",
+      "6 taco shells",
+      "50 g lettuce",
+      "50 g cheddar cheese",
+      "50 g salsa",
+      "1 tbsp taco seasoning"
+    ],
+    "preparing_time": "20 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Classic chewy chocolate chip cookies, perfect for a sweet treat.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "200 g flour",
+      "100 g butter",
+      "100 g sugar",
+      "100 g chocolate chips",
+      "1 large egg",
+      "1 tsp vanilla extract",
+      "1/2 tsp baking soda"
+    ],
+    "preparing_time": "30 min",
+    "calories": "250 calories per cookie"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Margarita Pizza",
+    "short_description": "A simple and delicious Margarita pizza with fresh tomatoes and basil.",
+    "recipe_image": "https://cdn.pixabay.com/photo/2024/02/15/09/30/grilled-chicken-8575040_1280.png",
+    "ingredients": [
+      "1 pizza dough",
+      "100 g mozzarella cheese",
+      "50 g tomato sauce",
+      "50 g fresh tomatoes",
+      "10 g fresh basil",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": "40 min",
+    "calories": "600 calories"
+  }
+]
